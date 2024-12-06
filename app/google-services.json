@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1097650845126",
+    "project_id": "th-messenger-0512",
+    "storage_bucket": "th-messenger-0512.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097650845126:android:4c1e962bbf631e88c4aec7",
+        "android_client_info": {
+          "package_name": "com.course.basicchatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrI_YIcdtKKHn9mrSedy5VpB57hgeAPrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
