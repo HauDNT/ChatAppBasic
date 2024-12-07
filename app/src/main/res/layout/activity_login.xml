@@ -134,7 +134,7 @@
         app:layout_constraintVertical_bias="0.939" />
 
     <TextView
-        android:id="@+id/textView9"
+        android:id="@+id/labelSignupRedirect"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:gravity="center"
